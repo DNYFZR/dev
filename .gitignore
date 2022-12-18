@@ -1,6 +1,6 @@
 # Project
+nbs/parquet/data/*
 data/media/*
-
 data/statistics/weibull_data_128m.csv
 data/statistics/weibull_run_raw.csv
 
