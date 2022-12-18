@@ -10,6 +10,9 @@
 <h3><b> 📊 analytics </b></h3>
 Files for analytical software such as PBI
 
+<h3><b> 📱 app </b></h3>
+App development code
+
 <h3><b> 🧮 data </b></h3>
 Datasets used in dev / test & analytics
 
@@ -21,5 +24,8 @@ Notebook files for development & general analytics
 
 <h3><b> 🔋 src </b></h3>
 Script based development source folder
+
+<h3><b> ⚙ utils </b></h3>
+Helper files & utility code
 
 <br>
